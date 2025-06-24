@@ -12,7 +12,7 @@ There's a few cases were I wasn't able to implement dedicated artwork for a part
 
 * 5/5 Green Beast from [One Dozen Eyes](https://scryfall.com/card/c13/159/one-dozen-eyes)
 * 2/2 Green Beast from [Keeper of the Beasts](https://scryfall.com/card/exo/112/keeper-of-the-beasts)
-* Either token from [Want of the Elements](https://scryfall.com/card/dst/158/wand-of-the-elements)
+* Either token from [Wand of the Elements](https://scryfall.com/card/dst/158/wand-of-the-elements)
 * 3/1 Red Knight from [Court of Embereth](https://scryfall.com/card/woc/24/court-of-embereth)
 * 1/1 White Knight from [Errand of Duty](https://scryfall.com/card/me2/12/errand-of-duty)
 * 2/2 White Reflection from [Spirit Mirror](https://scryfall.com/card/tpr/35/spirit-mirror)
