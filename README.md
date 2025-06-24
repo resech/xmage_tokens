@@ -1,6 +1,6 @@
 # Additional XMage Tokens
 
-There's a few tokens that never received official cards, mostly older stuff but also some newer cards from sets like Jumpstart. Because this artwork isn't on Scryfall, it's not available via the standard image import process. This archive is an attempt to provide art for those cards using some of the "un-official" artwork from MTGO/MTGA, along with some custom artwork.
+There's a few tokens that never received official cards, mostly older stuff but also some newer cards from sets like Jumpstart. Because this artwork isn't on Scryfall, it's not available via the standard image import process. This archive is an attempt to provide art for those cards using some of the "un-official" tokens from MTGO/MTGA, along with some custom artwork.
 
 ## Sources
 
