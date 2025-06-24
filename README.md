@@ -4,7 +4,7 @@ There's a few tokens that never received official cards, mostly older stuff but 
 
 ## Sources
 
-Cockatrice's [tokens.xml](https://github.com/Cockatrice/Magic-Token/blob/master/tokens.xml) was a primary resource for the artwork in this archive along with mtg.onl and card art from Scryfall.
+Cockatrice's [tokens.xml](https://github.com/Cockatrice/Magic-Token/blob/master/tokens.xml) was a primary resource for the artwork in this repository along with mtg.onl and card art from Scryfall.
 
 ## Notes
 
@@ -20,7 +20,6 @@ There's a few cases were I wasn't able to implement dedicated artwork for a part
 # How to use
 
 1. Download `art.zip` from this repository.
-2. Find and backup your images directory in XMage (so you don't have to redownload everything if something goes wrong).
-3. Find `TOK.zip` in your images directory and open it. I find 7Zip easiest for this.
-5. Find and open the `XMAGE` directory inside `TOK.zip`.
-6. Open `art.zip` and copy all the image files from it into the XMAGE directory.
+2. Find and backup `TOK.zip` in your images directory for XMage (so you don't have to redownload everything if something goes wrong).
+3. Open `TOK.zip`, then find and open the `XMAGE` directory. I find 7Zip easiest for this but any archiver should work.
+4. Open `art.zip` and copy all the image files from it into the `XMAGE` directory.
