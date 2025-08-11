@@ -21,5 +21,5 @@ There's a few cases were I wasn't able to implement dedicated artwork for a part
 
 1. Download `art.zip` from this repository.
 2. Find and backup `TOK.zip` in your images directory for XMage (so you don't have to redownload everything if something goes wrong).
-3. Open `TOK.zip`, then find and open the `XMAGE` directory. I find 7Zip easiest for this but any archiver should work.
-4. Open `art.zip` and copy all the image files from it into the `XMAGE` directory.
+3. Open `TOK.zip`. I find 7Zip easiest for this but any archiver should work.
+4. Open `art.zip` and copy all the directories and image files from it into the root of `TOK.zip`.
