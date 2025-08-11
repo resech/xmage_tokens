@@ -8,7 +8,7 @@ Cockatrice's [tokens.xml](https://github.com/Cockatrice/Magic-Token/blob/master/
 
 ## Notes
 
-There's a few cases were I wasn't able to implement dedicated artwork for a particular class/card. This is because XMages fall back method when it can't find a defined token is to look for TOKENNAME.full.jpg. Some of these classes use the same token name but would otherwise have different statlines/colors/etc. I've added generic images for each so there's at least some artwork and XMage will still overlay the correct details/stats so this is really only an issue if you try and view the card art when the token is in play. Tokens are not an exact 1:1 for the following:
+There's a few cases were I wasn't able to implement dedicated artwork for a particular class/card. This is because XMages fall back method when it can't find a defined token is to look for TOKENNAME.full.jpg. Some of these classes use the same token name but would otherwise have different statlines/colors/etc. I've added generic images for each so there's at least some artwork and XMage will still overlay the correct details/stats so this is really only an issue if you are not using MTGO mode or you try and view the card art when the token is in play using MTGO mode. Tokens are not an exact 1:1 for the following:
 
 * 5/5 Green Beast from [One Dozen Eyes](https://scryfall.com/card/c13/159/one-dozen-eyes)
 * 2/2 Green Beast from [Keeper of the Beasts](https://scryfall.com/card/exo/112/keeper-of-the-beasts)
